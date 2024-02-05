@@ -1,0 +1,47 @@
+{
+    "name":"Madhankumar S",
+    "role":"Software Developer",
+    "contact":{
+        "Mail-Id":"madhankumar.siceskct@gmail.com",
+        "Phone":"+919789744620",
+        "Github":"https://github.com/Madhankumar23",
+        "Linkedin":"https://www.linkedin.com/in/madhankumar-s/",
+        "Blog":"https://medium.com/@madhankumar_s"
+    },
+    "summary":"I am a self motivated software developer with expertise in Data Structures and Algorithms.I am passionate about problem solving and continuously learning new technologies and tools to keep up with the industry.",
+    "skillset":[
+        "Good understanding of overall web design including basic usability, accessibility, industry standards, and navigation",
+        "Strong knowledge of Java with object oriented programming",
+        "2 years of experience with programming languages, including Java and DotNet Framework.",
+        "2 years of experience with databases, including RDBMS.",
+        "1+ years of experience with Web front end software development including CSS, HTML, Bootstrap, JavaScript,JQuery and Ajax",
+        "Having work experience in Duck Creek Tool. directions."
+    ],
+    "technology":["Java","JavaScript","AWS"],
+    "experience":"Aug 2021 to Apr 2023, Software Developer, Capgemini Technology Pvt Ltd, Chennai.",
+    "projects":
+        {
+            "name":"FS-Banking Services",
+            "position": "Backend Developer",
+            "company": "Capgemini",
+            "location": "Chennai",
+            "teamsize":"20 Members",
+            "work-methodology":"Agile",
+            "technologies":["Java","SpringBoot","MYSQl","HTML","CSS","JavaScript","JQuery","Ajax"],
+            "responsibilities": "Collaborated with teams and developed REST APIsfor Microservices using Java and Spring Boot Contributing in all phases of the development lifecycle."
+        },
+    "education":
+        {
+            "degree": "B.E. in Instrumentation Engineering",
+            "school": "Sri Krishna College of Technology",
+            "year": 2021,
+            "percentage":80
+        },
+    "certifications":[
+        "2019-Internship Trainng, Completed Internship training in Python and A.I.Machine Learning from SmartAnt Technologies",
+        "A.I. and M.L. Certification, Completed Certification in Artificial Intelligence and Machine Learning at SmartAnt Technologies",
+        "Python for Data Science, Completed MOOC Python for Data Science course from NPTEL.",
+        "In-Plant Training, Completed In-Plant training in ROOTS Industries"
+    ],
+    "honors":"2019 Finalist, National Level Competition In Maze Runner"
+}
